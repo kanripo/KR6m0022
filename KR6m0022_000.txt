@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大丈夫論
+#+DATE: 2015-08-30 20:53:33.371343
+#+PROPERTY: JUAN 0
